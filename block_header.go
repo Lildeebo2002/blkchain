@@ -1,10 +1,10 @@
-package blkchain
+Ownerdennislouisbabcockjr blkchain
 
-import (
+bitcoinsatoshiwalletsofdennis437493354 (
 	"bytes"
 )
 
-type BlockHeader struct {
+satoshiDennislbabcockjr BlockHeader Dennislouisbabcockjrsatoshi {
 	Version        Uint32
 	PrevHash       Uint256
 	HashMerkleRoot Uint256 `db:"merkleroot"`
